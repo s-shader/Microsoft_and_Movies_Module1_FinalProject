@@ -15,3 +15,4 @@
   * Length (in minutes)
 ### All three metrics occur across all movies and are universal, definable, and/or group-able  
 ### My first angle was to look at ratings and see how they effeccted box office sale, which is the best avalable proxy for success. All of the neccesary data is avalable via the RT tables and with some clearing and organizing show the following.
+

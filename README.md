@@ -34,4 +34,13 @@
 ### From Yaho Finance I was able to scrape data on operating margnins, net margind, return on assets, and return on equity for the top movie producers along with Microsoft. Given the potential for the data to be skewed I took both the mean and medain for all financial metrics of the movie industry companies to comapre with those of Microsoft's.
 ![alt text](https://github.com/s-shader/Microsoft_and_Movies_Module1_FinalProject/blob/master/Images/Microsoft_vs_Industry.png)
 ### Above you can see Microsoft, in green, and the mean and median data from the top movie producers. For all metrics using both the mean and median Microsoft does significantly better.
+### As a final test I compared Microsoft's stock price to those of the top movie companies. This time using the YFinance library from Yahoo Finance I was able to get historical prices for all the companies.
+![alt text](https://github.com/s-shader/Microsoft_and_Movies_Module1_FinalProject/blob/master/Images/stockMarket_chart.png)
+### As with financial metrics Microsoft, MSFT in green, outperforms the "competion."
+
+## Final Thoughts:
+  * If microsoft is going to make movies it should make PG or PG-13 movies.
+  *  Movie reviews and runtimes probably don't matter, however, a larger sample size would help to verify this.
+  * Given the lower margens and slower growing stock price of top movie producers it is unclear if Microsoft should start making movies.
+
 

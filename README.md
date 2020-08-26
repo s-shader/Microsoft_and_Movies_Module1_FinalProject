@@ -28,7 +28,7 @@
 
 ### Switching directions I took a broader look at the industry. Wikipedia provided some easily scrapable table on market share in the industry.
 ![alt text](https://github.com/s-shader/Microsoft_and_Movies_Module1_FinalProject/blob/master/Images/marketShare_table.png)
-### Put diffrently.
+### Put diffrently:
 ![alt text](https://github.com/s-shader/Microsoft_and_Movies_Module1_FinalProject/blob/master/Images/marketShare_graph.png)
 ### As can be seen from either, 6 companies control the bulk of the industry (>80%) and became my proxy for the broader industry.
 ### From Yaho Finance I was able to scrape data on operating margnins, net margind, return on assets, and return on equity for the top movie producers along with Microsoft. Given the potential for the data to be skewed I took both the mean and medain for all financial metrics of the movie industry companies to comapre with those of Microsoft's.
